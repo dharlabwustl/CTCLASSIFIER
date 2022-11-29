@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="da8ee484-547e-465d-86d4-21adde0c7f35" name="Changes" comment="" />
+    <list default="true" id="da8ee484-547e-465d-86d4-21adde0c7f35" name="Changes" comment="Commit 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bashtowriteDockerfile.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bashtowriteDockerfile.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/builddockerimage.sh" beforeDir="false" afterPath="$PROJECT_DIR$/builddockerimage.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_Classifier_sessionlevel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/call_Classifier_sessionlevel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hosseinclassifier_session_level.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rundockercommand_classifier.sh" beforeDir="false" afterPath="$PROJECT_DIR$/rundockercommand_classifier.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/ARCHIVE/.ipynb_checkpoints/Classifier_subject_level-checkpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/ARCHIVE/.ipynb_checkpoints/call_Classifier_wholeSession-checkpoint.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/ARCHIVE/Classifier_Scan.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/ARCHIVE/Classifier_scan_level.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/ARCHIVE/Classifier_subject_level.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/ARCHIVE/call_Classifier_scanlevel.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/ARCHIVE/call_Classifier_subjectlevel.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/ARCHIVE/call_Classifier_wholeSession.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/ARCHIVE/call_hosseinclassifier_docker.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/ARCHIVE/hosseinclassifier_scanlevel.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/ARCHIVE/hosseinclassifier_subject_level.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/ARCHIVE/test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/ARCHIVE/test_run.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/CTCLASSIFIER.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/Classifier_session_level.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/bashtowriteDockerfile.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/builddockerimage.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/call_Classifier_sessionlevel.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/hosseinclassifier_session_level.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/label_probability.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/retrained_graph.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/retrained_labels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/run_hosseinclassifydockerimage.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/software1/CTCLASSIFIER/rundockercommand_classifier.sh" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,18 +47,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2IC8wVcx0JKXtRPcwwOmeF7o9nN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,6 +71,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669674450534</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit 1">
+      <created>1669674796695</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669674796695</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -43,5 +91,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 1" />
   </component>
 </project>
